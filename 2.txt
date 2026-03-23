@@ -1,3 +1,4 @@
 this is git practice with content
 [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
 content created using echo
+new content
